@@ -34,7 +34,6 @@ exports = module.exports = {
         'no-iterator':          ['error'],
         'no-lone-blocks':       ['error'],
         'no-loop-func':         ['error'],
-        'no-magic-numbers':     ['warn', { 'ignoreArrayIndexes': true }],
         'no-multi-spaces':      ['error'],
         'no-multi-str':         ['error'],
         'no-new':               ['error'],
