@@ -1,0 +1,1 @@
+# eslint-config-ghornich-es5
