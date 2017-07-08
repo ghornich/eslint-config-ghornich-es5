@@ -107,7 +107,6 @@ exports = module.exports = {
         'max-len':               ['error', MAX_LINE_LEN],
         'max-params':            ['error'],
         'max-statements':        ['warn'],
-        'multiline-ternary':     ['error'],
         'new-cap':               ['error'],
         'new-parens':            ['error'],
         'no-array-constructor':  ['error'],
