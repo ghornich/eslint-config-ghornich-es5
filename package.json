@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-ghornich-es5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslintrc.js",
+  "author": "ghornich",
+  "license": "MIT"
+}
