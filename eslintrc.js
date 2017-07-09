@@ -5,6 +5,14 @@ const INDENT_DEPTH = 4;
 
 exports = module.exports = {
     extends: 'eslint:recommended',
+    plugins: [
+        // 'react'
+    ],
+    parserOptions: {
+        ecmaFeatures: {
+            jsx: true
+        }
+    },
     env: {
         node: true,
     },
