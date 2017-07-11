@@ -93,7 +93,7 @@ exports = module.exports = {
         'comma-dangle':          ['error', 'always-multiline'],
         'comma-spacing':         ['error'],
         'comma-style':           ['error'],
-        'consistent-this':       ['error'],
+        'consistent-this':       ['error', 'self'],
         'eol-last':              ['error'],
         'func-call-spacing':     ['error'],
         'indent':                ['error', INDENT_DEPTH, { 'SwitchCase': 1, 'MemberExpression': 0 }],
