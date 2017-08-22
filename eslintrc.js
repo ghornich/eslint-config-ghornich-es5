@@ -7,6 +7,7 @@ exports = module.exports = {
     extends: 'eslint:recommended',
     env: {
         node: true,
+        browser: true
     },
     rules: {
         // from http://eslint.org/docs/rules/
